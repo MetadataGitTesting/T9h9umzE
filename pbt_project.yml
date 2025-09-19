@@ -1,0 +1,50 @@
+name: jose.bogisich
+description: 5th generation
+version: 0.0.1
+author: p7azqb3f.sztcb7vo@1fb8pujm.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: josebogisich
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-09-19 23:28:39'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-09-19 23:28:39'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-09-19T23:28:39.711703Z'
+  name: plibMaven
+  version: 8.14.0-SNAPSHOT
+  id: '34738320'
+  createdAt: '2025-09-19T23:28:39.711703Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
